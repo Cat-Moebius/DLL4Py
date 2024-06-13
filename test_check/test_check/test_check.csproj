@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="MyLibrary">
-      <HintPath>bin\Debug\net6.0\MyLibrary.dll</HintPath>
+    <Reference Include="test_dll">
+      <HintPath>..\..\test_dll\test_dll\bin\Debug\net6.0\test_dll.dll</HintPath>
     </Reference>
   </ItemGroup>
 

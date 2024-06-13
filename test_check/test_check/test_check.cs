@@ -10,7 +10,7 @@ namespace test_check
     {
         static void Main(string[] args)
         {
-            double result = MyLibrary.MyLibrary.Add(5, 3);
+            double result = test_dll.test_dll.Add(5, 3);
             Console.WriteLine(result);
             Console.ReadLine();
         }

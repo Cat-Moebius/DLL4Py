@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyLibrary
+namespace test_dll
 {
-    public static class MyLibrary
+    public static class test_dll
     {
         public static double Add(double a, double b)
         {
